@@ -15,7 +15,7 @@ It allows both **command-line file input** and **interactive file selection** vi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Tanishq665/whisper-audio-transcription.git
+git clone https://github.com/Tanishq665/STT-whisper.git
 cd whisper-audio-transcription
 ```
 
@@ -76,7 +76,7 @@ Transcription:
 ---
 
 ## Author
-Developed by [Your Name](https://github.com/Tanishq665).  
+Developed by [Tanishq](https://github.com/Tanishq665).  
 For contributions, feel free to submit a pull request!
 
 ---
