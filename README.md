@@ -10,6 +10,9 @@ It allows both **command-line file input** and **interactive file selection** vi
 - Runs on **CPU and GPU (CUDA support)**
 
 ---
+## Live Demo
+Try it here: [Whisper Transcription](https://huggingface.co/spaces/Tanishq665/WhisperSTT)
+
 
 ## Installation
 
